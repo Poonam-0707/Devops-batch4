@@ -1,2 +1,4 @@
 git init
 git commit 
+git clone
+git remote -v
